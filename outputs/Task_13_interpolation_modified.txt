@@ -1,0 +1,6 @@
+PART C - t=10.5: linear=23.250, quadratic=23.360, cubic=23.363
+PART C - t=13.5: linear=25.250, quadratic=25.385, cubic=25.410
+
+PART E - estimating missing days
+Day 4,5 linear: [25.33 24.17]
+Day 4,5 cubic : [26.3  24.78]

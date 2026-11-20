@@ -1,0 +1,10 @@
+PART C - boundaries 80 C and 40 C, tol=1e-8
+Direct   : [73.3333 66.6667 60.     53.3333 46.6667]
+Jacobi   : [73.3333 66.6667 60.     53.3333 46.6667] iterations: 150
+GaussSeid: [73.3333 66.6667 60.     53.3333 46.6667] iterations: 76
+Jacobi iterations with looser tol=1e-4: 86
+
+PART E - 20-point rod (60 C to 30 C)
+Jacobi iterations: 1627 | Gauss-Seidel iterations: 831
+Max difference from direct solution (Jacobi, GS): 6.612971006347834e-07 4.3704407204359086e-07
+Temperatures at points 1, 10, 20: [58.571 45.714 31.429]

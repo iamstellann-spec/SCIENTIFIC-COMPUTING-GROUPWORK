@@ -1,0 +1,9 @@
+PART C - model comparison
+Quadratic: RMSE=1.55 ms, prediction at 400 users = 377.9 ms
+Linear   : RMSE=18.83 ms, prediction at 400 users = 312.9 ms
+
+PART E - app growth
+Model: users = 95.24 * exp(0.2304 * month)
+RMSE: 1.17 users
+Monthly growth rate: 25.91%
+Predicted users in month 10: 954

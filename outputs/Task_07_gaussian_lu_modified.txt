@@ -1,0 +1,8 @@
+PART C
+Original solution      : [5. 5. 5.]
+A[2,2] changed to 6    : [4.8255814  4.30232558 2.38372093]
+b[0] changed to 30     : [9.02439024 6.09756098 5.36585366]
+
+PART E - 500 time steps on a 200x200 system
+Factor once + reuse: 0.0113s | Solve from scratch each time: 0.1606s
+Maximum difference between the two answers: 0.00e+00

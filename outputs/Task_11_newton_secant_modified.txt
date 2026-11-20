@@ -1,0 +1,6 @@
+PART C - investment 10000: IRR = 11.5425% (7 secant iterations)
+PART C - investment 12000: IRR = 3.3298% (7 secant iterations)
+
+PART E - effective annual interest rate of the loan
+Rate = 7.7138%; NPV at that rate = 0.000000
+Total repaid = 120,000 for a loan of 100,000 (extra paid: 20,000)

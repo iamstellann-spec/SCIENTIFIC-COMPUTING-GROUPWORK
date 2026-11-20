@@ -1,0 +1,6 @@
+PART C - radius 2: intersection = [1.5175 1.3028], residuals = [-0. -0.]
+PART C - radius 3: intersection = [1.8364 2.3723], residuals = [-0.  0.]
+
+PART E - coverage boundary crossings
+Guess [3.0, 3.0] -> [3.75   3.3072] converged: True residuals: [0. 0.]
+Guess [3.0, -3.0] -> [ 3.75   -3.3072] converged: True residuals: [0. 0.]

@@ -1,0 +1,7 @@
+PART C - totals [20. 72.]: Type A=3.00, Type B=4.00, residual norm=0.0e+00
+PART C - totals [24. 80.]: Type A=4.00, Type B=4.00, residual norm=0.0e+00
+
+PART E - fertiliser mixing
+Mix 1: 48.00 kg, Mix 2: 44.00 kg
+Check (nitrogen, phosphorus): [14. 18.]
+Residual norm: 0.0

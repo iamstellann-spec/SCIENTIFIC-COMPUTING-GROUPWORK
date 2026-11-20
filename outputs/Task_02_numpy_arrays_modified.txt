@@ -1,0 +1,8 @@
+PART C - one reading changed (29.4 -> 40.0)
+Original: mean=23.12, min=17.50, max=29.40
+Changed : mean=23.56, min=17.50, max=40.00
+
+PART E - weekly rainfall at a farm (assumed data)
+Total rain: 57.5 mm, mean/day: 8.21 mm, wettest day: 30.5 mm
+Rainy days (>1 mm): 5
+Water falling on one acre in the week: 232,694 litres

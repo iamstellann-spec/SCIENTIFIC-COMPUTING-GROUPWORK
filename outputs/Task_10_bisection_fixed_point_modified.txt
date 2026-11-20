@@ -1,0 +1,5 @@
+PART C - original (10): equilibrium = 27.525211 C after 39 bisection steps
+PART C - changed (20): equilibrium = 29.561521 C after 39 bisection steps
+
+PART E - break-even quantities: 146.45 units and 853.55 units
+Profit at 500 units: KES 5,000.00

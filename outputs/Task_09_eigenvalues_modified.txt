@@ -1,0 +1,9 @@
+PART C - Original: dominant eigenvalue=2.5616, importance A,B,C,D = [0.2192 0.2808 0.2808 0.2192]
+PART C - With A-D link: dominant eigenvalue=3.0000, importance A,B,C,D = [0.25 0.25 0.25 0.25]
+
+PART E - town network, dominant eigenvalue: 2.4812
+Nairobi : 0.2406
+Ruiru   : 0.2406
+Kiambu  : 0.1939
+Thika   : 0.1624
+Juja    : 0.1624
